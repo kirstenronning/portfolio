@@ -35,24 +35,24 @@ Note that this was the easy way to *create* your website, but it does come at a 
 <style>
 
 .gs-section-01 h3 { 
-     color: red }
+     color: #45062E }
 
 .gs-section-01 p {
      font-size: 30px;
 }
 
 .gs-section-02 h3 {
-      color: purple }
+      color: #E5A4CB }
 
 .gs-section-02 p {
-      font-size: 60px;
+      font-size: 30px;
 }
 
 .gs-section-03 h3 {
-      color: black }
+      color: #7F055F }
 
 .gs-section-03 p {
-      font-sie: 45px;
+      font-sie: 30px;
 }
 
 </style>
