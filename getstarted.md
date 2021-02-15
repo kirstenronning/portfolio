@@ -36,11 +36,12 @@ Note that this was the easy way to *create* your website, but it does come at a 
 
 .gs-section-01 h3 { 
      font-family: Arial, Helvetica, sans-serif;
-     color: #45062E }
+     color: #FFE8D4 }
 
 .gs-section-01 p {
      font-family: Arial, Helvetica, sans-serif;
      font-size: 25px;
+     color: #FFE8D4
 }
 
 .gs-section-02 h3 {
@@ -50,6 +51,7 @@ Note that this was the easy way to *create* your website, but it does come at a 
 .gs-section-02 p {
       font-family: "Lucida Console", "Courier New", monospace;
       font-size: 25px;
+      color: #E5A4CB
 }
 
 .gs-section-03 h3 {
@@ -57,6 +59,7 @@ Note that this was the easy way to *create* your website, but it does come at a 
 
 .gs-section-03 p {
       font-sie: 25px;
+      color: black
 }
 
 </style>
