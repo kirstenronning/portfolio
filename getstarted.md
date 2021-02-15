@@ -35,24 +35,28 @@ Note that this was the easy way to *create* your website, but it does come at a 
 <style>
 
 .gs-section-01 h3 { 
+     font-family: Arial, Helvetica, sans-serif;
      color: #45062E }
 
 .gs-section-01 p {
-     font-size: 30px;
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 25px;
 }
 
 .gs-section-02 h3 {
+      font-family: "Lucida Console", "Courier New", monospace;
       color: #E5A4CB }
 
 .gs-section-02 p {
-      font-size: 30px;
+      font-family: "Lucida Console", "Courier New", monospace;
+      font-size: 25px;
 }
 
 .gs-section-03 h3 {
-      color: #7F055F }
+      color: black }
 
 .gs-section-03 p {
-      font-sie: 30px;
+      font-sie: 25px;
 }
 
 </style>
