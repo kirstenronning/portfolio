@@ -10,9 +10,13 @@ subtitle:
 
 ### Code-Throughs
 
+<div class="gs-section-01" markdown="1">
+
 [**Sentiment Analysis**](cpp-527-code-through-Ronning.html)
 
 This code-through covers various text and sentiment analysis options in both the **quanteda** and **tidytext** packages. We use the 2014 State of the Union Address that President Barack Obama delivered in order to analyze the words used most frequently, as well as the senntiments those words elicited.
+
+</div>
 
 [**Connection Map**](cpp-529-code-through-Ronning.html)
 
@@ -40,4 +44,16 @@ In recent years, feminist activists have taken their fascination and concern ove
 
 Keywords: menstrual equity, period poverty, menstrual activism, period products
 
-
+<style>
+  
+  .gs-section-01 h3 { }
+  
+  .gs-section-01 p {
+    div-absolute {
+    position: absolute;
+    top: 80px;
+    right: 0;
+    width: 200px;
+    height: 100px;
+    border: 3px solid #73AD21;
+   }
