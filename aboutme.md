@@ -4,7 +4,11 @@ title: About Me
 subtitle: Program Evaluation and Data Analytics (MS) Graduate at Arizona State University
 ---
 
+<div class="gs-section-01" markdown=1">
+
 ![Kirsten](assets/img/kirstenboulder.jpg)
+
+</div>
 
 ---
 
@@ -33,3 +37,18 @@ I currently reside with my Golden Retriever [Tyson](https://kirstenronning.githu
 I am searching for a data science or program analyst position that allows me to build tools using visualization and machine learning to help people explore and understand their data. I would love to work in a position where I can provide data science tools and techniques to public policy research and implementation. I am grateful to be given an entry-level position and begin my data analyst career.
 
 ---
+
+<style>
+  
+  .gs-section-01 div.polaroid {
+    width: 80%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+   }
+   
+   img {width: 100%}
+   
+   div.container {
+    text-align: center;
+    padding: 10px 20px;
+   }
