@@ -16,7 +16,7 @@ This code-through covers various text and sentiment analysis options in both the
 
 [**Connection Map**](cpp-529-code-through-Ronning.html)
 
-This code-through walks through how to cretae a basic Connection Map, while also providing more advanced options to make your map unique. While there are many methods to uploading maps in R, the **maps** and **leaflet** packages are two of the most accessible for completing the task.
+This code-through walks through how to create a basic Connection Map, while also providing more advanced options to make your map unique. While there are many methods to uploading maps in R, the **maps** and **leaflet** packages are two of the most accessible for completing the task.
 
 [**Lollipop Plots**](cpp-526-code-through-Ronning.html)
 
