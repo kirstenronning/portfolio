@@ -26,9 +26,11 @@ This code-through explores how to create various lollipop plots using the **ggpl
 
 **Denver**
 
+This dashboard can be used to detect neighborhood change at the census tract level for the Denver metroplitan statistical area (MSA).
+
 [**City of Tempe Dashboard**](https://kirstenronning.shinyapps.io/CityofTempeDashboard/#section-day-and-time)
 
-This dashboard was created using the City of Tempe Open Data Portal. It explores connections between Day and Time of the crash and Age and Substance Abuse presence, while also allowing to analyze characteristics and draw Comparisons of the drivers involved in the crash.
+This dashboard was created using the City of Tempe Open Data Portal. It explores connections between Day and Time of the crash and Age and Substance Abuse presence, while also allowing to analyze characteristics and draw comparisons of the drivers involved in the crash.
 
 ---
 
