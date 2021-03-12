@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Tyson
-subtitle: My little Golden Retriever
+subtitle: <i class="fas fa-paw"></i> My little Golden Retriever
 ---
 
 
-![Kirsten](assets/img/kirstenboulder.jpg)
+![Kirsten](assets/img/Tyson1.jpg)
 
