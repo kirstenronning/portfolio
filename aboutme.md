@@ -31,7 +31,8 @@ I currently reside with my Golden Retriever [Tyson](https://kirstenronning.githu
 
 ### What I Hope to Do
 
-I am searching for a data science or program analyst position that allows me to build tools using visualization and machine learning to help people explore and understand their data. I would love to work in a position where I can provide data science tools and techniques to public policy research and implementation. I am grateful to be given an entry-level position and begin my data analyst career.
+I am searching for a data science or program analyst position that allows me to build tools using visualization and machine learning to help people explore and understand their data. Please take a look at some of my work in my [Portfolio](https://kirstenronning.github.io/portfolio/portfolio/).
+I would love to work in a position where I can provide data science tools and techniques to public policy research and implementation. I am grateful to be given an entry-level position and begin my data analyst career.
 
 ---
 
