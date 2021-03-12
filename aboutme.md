@@ -16,6 +16,8 @@ I was hired as a Data Intern at the Arizona Commission of the Arts Spring of 201
 
 One of my proudest achievements from Undergrad is receiving my 200-hour RYT Yoga Teacher certification. Through CorePower Yoga, I was able to guide students in order to create a welcoming space where students felt motivated to flourish in their community. I worked my way up to Studio Assistant Manager of our Old Town Scottsdale location, and I was granted the opportunity to lead two separate Yoga Teacher Trainings.
 
+*Skills: SQL, Python, Microsoft Excel, Tableau, SPSS, SAS, Orange, HTML5, Microsoft Access, R*
+
 ---
 
 ### What I'm Doing
@@ -23,6 +25,8 @@ One of my proudest achievements from Undergrad is receiving my 200-hour RYT Yoga
 I am currently a Graduate student at Arizona State University Online, and halfway through my Master of Science in Program Evaluation and Data Analytics. This program is truly the perfect combination of my two Bachelors of Science, as I am able to focus on fine-tuning my skills in data science and program analysis. I am confident in my visualization and coding abilities in R and Tableau, and I have succinct statistical knowledge when it comes to designing and analyzing social programs.
 
 I currently reside with my Golden Retriever [Tyson](https://kirstenronning.github.io/portfolio/tyson/) in Scottsdale, Arizona, but we will be relocating this Summer 2021. My favorite pastimes include yoga, hiking, kayaking, and traveling as much as possible!
+
+*Skills: R, Tableau*
 
 ---
 
