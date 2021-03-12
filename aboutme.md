@@ -14,7 +14,7 @@ I was born and raised in Chandler, Arizona, and it was not a hard decision to at
 
 I was hired as a Data Intern at the Arizona Commission of the Arts Spring of 2019. In this role, I conducted a semester-long internship working under the Programs and Grant Coordinator in order to learn how the non-profit arts sector functions by utiliing the SMU DataArts platform. I provided the Commission with a final report and presentation by combining data visualization and research into the Dance field in order to determine the span of the Commission in the state of Arizona.
 
-One of my proudest achievements from Undergrad is receiving my 200-hour RYT Yoga Teacher certification. Through CorePower Yoga, I was able to guide students in order to create a welcoming space where students felt motivated to flourish in their community. I worked my way up to Studio Assistant Manager of our Old Town Scottsdale location, and I was granted the opportunity to lead two separate Yoga Teacher Trainings.
+One of my proudest achievements from Undergrad is receiving my 200-hour RYT Yoga Teacher certification. Through CorePower Yoga, I was able to guide students in order to create a welcoming space where students felt motivated to flourish in their community. I worked my way up to Studio Assistant Manager of our Old Town Scottsdale location, and I was granted the opportunity to lead two separate Yoga Teacher Trainings..
 
 ---
 
