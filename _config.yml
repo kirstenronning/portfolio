@@ -58,7 +58,7 @@ social-network-links:
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+  telephone: +16028261484
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
@@ -70,7 +70,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is for CPP 527.
+# rss-description: This website is for CPP 527.
 
 # --- General options --- #
 
