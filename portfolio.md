@@ -16,6 +16,8 @@ subtitle:
 
 This code-through covers various text and sentiment analysis options in both the **quanteda** and **tidytext** packages. We use the 2014 State of the Union Address that President Barack Obama delivered in order to analyze the words used most frequently, as well as the senntiments those words elicited.
 
+![](assets/img/sentimentanalysis.png)
+
 </div>
 
 [**Connection Map**](cpp-529-code-through-Ronning.html)
@@ -49,11 +51,13 @@ Keywords: menstrual equity, period poverty, menstrual activism, period products
   .gs-section-01 h3 { }
   
   .gs-section-01 p {
-    div-absolute {
-    position: absolute;
-    top: 80px;
-    right: 0;
-    width: 200px;
-    height: 100px;
-    border: 3px solid #73AD21;
    }
+   
+  .gs-section-01 img {
+    border: 1 px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+   }
+   
+   <img src="assets/img/sentimentanalysis.png" alt="Sentiment Analysis">
