@@ -22,8 +22,8 @@ Keywords: menstrual equity, period poverty, menstrual activism, period products
 
 **Denver**
 
-[**City of Tempe Dashboard**](https://kirstenronning.shinyapps.io/CityofTempeDashboard/#section-day-and-time)
+[**City of Tempe Dashboard**]
 
-![TempeDashboard](assets/img/TempeDashboard.png)
+[![TempeDashboard](assets/img/TempeDashboard.png)](https://kirstenronning.shinyapps.io/CityofTempeDashboard/#section-day-and-time)
 
 #### Code-Throughs
