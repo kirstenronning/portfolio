@@ -6,7 +6,7 @@ subtitle:
 
 ---
 
-## <i class="fas fa-laptop-code"></i> Data Science Projects
+# <i class="fas fa-laptop-code"></i> Data Science Projects
 
 ### Code-Throughs
 
@@ -34,7 +34,7 @@ This dashboard can be used to detect neighborhood change at the census tract lev
 
 ---
 
-## <i class="fas fa-book"></i> Capstone Project
+# <i class="fas fa-book"></i> Capstone Project
 
 [**Honors Thesis: Attitudes and Experiences with Period Poverty at Arizona State University**](Ronning_K_Spring_2020.pdf)
 
