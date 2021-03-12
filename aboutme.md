@@ -4,7 +4,6 @@ title: About Me
 subtitle: Program Evaluation and Data Analytics (MS) Graduate at Arizona State University
 ---
 
-<div class="gs-section-01" markdown=1">
 
 ![Kirsten](assets/img/kirstenboulder.jpg)
 
@@ -36,12 +35,3 @@ I am searching for a data science or program analyst position that allows me to 
 
 ---
 
-</div>
-
-<style>
-  
-  .gs-section-01 img {
-      width: 300px;
-   }
-   
- </style>
