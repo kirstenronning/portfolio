@@ -4,7 +4,7 @@ title: About Me
 subtitle: 
 ---
 
-<img width=1604 alt="Kirsten" src="assets/img/Kirsten Headshot.jpg">
+![Kirsten](assets/img/Kirsten Headshot.jpg)
 
 ---
 
