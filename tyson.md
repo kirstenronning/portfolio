@@ -7,15 +7,15 @@ subtitle: My little Golden Retriever
 <i class="fas fa-paw"></i> <i class="fas fa-paw"></i> <i class="fas fa-paw"></i> 
 
 
-![Kirsten](assets/img/Tyson1.jpg) | ![Kirsten](assets/img/Tyson2.jpg)
------------- | -------------
-Content in the first column | Content in the second column
+![Kirsten](assets/img/Tyson1.jpg) | ![Kirsten](assets/img/Tyson2.jpg) | ![Kirsten](assets/img/Tyson3.jpg)
+------------ | ------------- | ------------- 
+Content in the first column | Content in the second column | Content in the third column
 
 
 
 
 
-![Kirsten](assets/img/Tyson3.jpg)
+
 
 ![Kirsten](assets/img/Tyson4.jpg)
 
