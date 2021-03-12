@@ -22,8 +22,8 @@ Keywords: menstrual equity, period poverty, menstrual activism, period products
 
 **Denver**
 
-**City of Tempe Dashboard**
+[**City of Tempe Dashboard**](https://kirstenronning.shinyapps.io/CityofTempeDashboard/#section-day-and-time)
 
-[![TempeDashboard](assets/img/TempeDashboard2.png)](https://kirstenronning.shinyapps.io/CityofTempeDashboard/#section-day-and-time)
+This dashboard was created using the City of Tempe Open Data Portal. It explores connections between Day and Time of the crash and Age and Substance Abuse presence, while also allowing to analyze Characteristics and draw Comparisons of the drivers involved in the crash.
 
 #### Code-Throughs
