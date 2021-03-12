@@ -4,7 +4,7 @@ title: About Me
 subtitle: 
 ---
 
-![](/assets/img/Kirsten Headshot.jpg)
+![Kirsten](assets/img/Kirsten Headshot.jpg)
 
 ### Where I've Been
 
@@ -12,10 +12,14 @@ I was born and raised in Chandler, Arizona, and it was not a hard decision to at
 
 One of my proudest achievements from Undergrad is receiving my 200-hour RYT Yoga Teacher certification. Through CorePower Yoga, I was able to guide students in order to create a welcoming space where students felt motivated to flourish in their community. I worked my way up to Studio Assistant Manager of our Old Town Scottsdale location, and I was granted the opportunity to lead two separate Yoga Teacher Trainings.
 
+---
+
 ### What I'm Doing
 
 I am currently a Graduate student at Arizona State University Online, and halfway through my Master of Science in Program Evaluation and Data Analytics. This program is truly the perfect combination of my two Bachelors of Science, as I am able to focus on fine-tuning my skills in data science and program analysis. I am confident in my visualization and coding abilities in R and Tableau, and I have succinct statistical knowledge when it comes to designign and analyzing social programs.
 
 I currently reside with my Golden Retriever Tyson in Scottsdale, Arizona, but we will be relocating this Summer 2021. 
+
+---
 
 ### What I Hope to Do
