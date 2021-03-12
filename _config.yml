@@ -17,13 +17,13 @@ author: Kirsten Ronning
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Code-Through: cpp-527-code-through-Ronning.html
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-    - Getting Started: "getstarted" # ADD THIS LINK
-  Table Demo: "table-demo" # ADD THIS LINK
+  Portfolio: " "
+    - Capstone Projects: " "
+    - Data Science Projects: " "
+  Tyson: " "
+  Resume: " "
+  Contact: " "
   Author's home: "https://deanattali.com"
 
 # --- Logo --- #
