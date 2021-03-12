@@ -5,5 +5,5 @@ subtitle: My little Golden Retriever
 ---
 
 
-<img width="1604" alt="Tyson1" src="/assets/img/Tyson1.jpg">
+<img width="1604" alt="Tyson1" src="/assets/img/kirstenboulder.jpg">
 
