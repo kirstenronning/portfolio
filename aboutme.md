@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-subtitle: 
+subtitle: Program Evaluation and Data Analytics (MS) Graduate at Arizona State University
 ---
 
 ![Kirsten](assets/img/kirstenboulder.jpg)
