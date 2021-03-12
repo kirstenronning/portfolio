@@ -16,7 +16,8 @@ subtitle: My Golden Retriever
 
 
 
-
-
-
-
+<style>
+  table{
+    background-color: #EBD2BE
+  }
+</style>
