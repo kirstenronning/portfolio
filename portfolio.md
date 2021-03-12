@@ -6,7 +6,7 @@ subtitle:
 
 ---
 
-## Data Science Projects
+## <i class="fas fa-code"></i> Data Science Projects
 
 ### Code-Throughs
 
@@ -34,7 +34,7 @@ This dashboard was created using the City of Tempe Open Data Portal. It explores
 
 ---
 
-## Capstone Project
+## <i class="fas fa-book"></i> Capstone Project
 
 [**Honors Thesis: Attitudes and Experiences with Period Poverty at Arizona State University**](Ronning_K_Spring_2020.pdf)
 
