@@ -20,7 +20,9 @@ navbar-links:
   About Me: "aboutme"
   Portfolio: "portfolio"
   Tyson: "tyson"
-  Resume: "resume"
+  Resume:
+    - Resume: "Kirsten Ronning Resume.pdf"
+    - CV: "https://kirstenronning.github.io/CV2/"
   Contact: " "
   Author's home: "https://deanattali.com"
 
