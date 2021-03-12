@@ -4,7 +4,7 @@ title: About Me
 subtitle: 
 ---
 
-![Kirsten](assets/img/Kirsten Headshot.jpg)
+![Kirsten](assets/img/kirstenboulder.jpg)
 
 ---
 
