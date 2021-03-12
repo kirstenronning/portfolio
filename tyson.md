@@ -5,7 +5,7 @@ subtitle: My Golden Retriever
 ---
 
 
-
+<div class="gs-section-01" markdown=1">
 
 ![Kirsten](assets/img/Tyson2.jpg) | ![Kirsten](assets/img/Tyson3.jpg) | ![Kirsten](assets/img/Tyson11.jpg)
 ------------ | ------------- | ------------- 
@@ -13,11 +13,11 @@ subtitle: My Golden Retriever
 ![Kirsten](assets/img/Tyson8.jpg) | ![Kirsten](assets/img/Tyson7.jpg) | ![Kirsten](assets/img/Tyson9.jpg)
 ![Kirsten](assets/img/Tyson10.jpg) | ![Kirsten](assets/img/Tyson6.jpg) | ![Kirsten](assets/img/Tyson12.jpg)
 
-
+</div>
 
 
 <style>
-  table{
+  .gs-section-01 table{
     background-color: #EBD2BE
   }
 </style>
