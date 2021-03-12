@@ -4,8 +4,7 @@ title: Tyson
 subtitle: My little Golden Retriever
 ---
 
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
+
 |<img width="1604" src="assets/img/sentimentanalysis.png">|  <img width="1604" src="/assets/img/Tyson2.jpg">|<img width="1604" src="/assets/img/Tyson3.jpg">|
 |<img width="1604" alt="Tyson4" src="/assets/img/Tyson4.jpg">  |  <img width="1604" alt="Tyson5" src="/assets/img/Tyson5.jpg">|<img width="1604" alt="Tyson6" src="/assets/img/Tyson6.jpg">|
 |<img width="1604" alt="Tyson7" src="/assets/img/Tyson7.jpg">  |  <img width="1604" alt="Tyson8" src="/assets/img/Tyson8.jpg">|<img width="1604" alt="Tyson9" src="/assets/img/Tyson9.jpg">|
