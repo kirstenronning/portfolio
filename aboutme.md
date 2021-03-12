@@ -8,8 +8,6 @@ subtitle: Program Evaluation and Data Analytics (MS) Graduate at Arizona State U
 
 ![Kirsten](assets/img/kirstenboulder.jpg)
 
-</div>
-
 ---
 
 ### Where I've Been
@@ -38,17 +36,12 @@ I am searching for a data science or program analyst position that allows me to 
 
 ---
 
+</div>
+
 <style>
   
-  .gs-section-01 div.polaroid {
-    width: 80%;
-    background-color: white;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  .gs-section-01 img {
+      width: 300px;
    }
    
-   img {width: 100%}
-   
-   div.container {
-    text-align: center;
-    padding: 10px 20px;
-   }
+ </style>
