@@ -27,3 +27,7 @@ I currently reside with my Golden Retriever Tyson in Scottsdale, Arizona, but we
 ---
 
 ### What I Hope to Do
+
+I am searching for a data science or program analyst position that allows me to build tools using visualization and machine learning to help people explore and understand their data. I would love to work in a position where I can provide data science tools and techniques to public policy research and implementation. I am grateful to be given an entry-level position and being my data analyst career.
+
+---
