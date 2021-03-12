@@ -1,3 +1,7 @@
+---
+layout: minimal
+---
+
 social-network-links:
   email: "keronnin@asu.edu"
 #  facebook: Kirsten Ronning
