@@ -8,7 +8,7 @@ subtitle:
 
 ---
 
-### Where I've Been
+### Where I've Been {data-icon=graduation-cap}
 
 I was born and raised in Chandler, Arizona, and it was not a hard decision to attend Arizona State University. I began classes immediately after high school, pursuing concurrent degrees in Business Data Analytics (BS) and Dance (BFA). After four years of school, I was able to graduate in May of 2020 Summa Cum Laude from Barrett, the Honors College with a Bachelor of Science in Business Data Analytics, a Bachelor of Science in Sociology, a Minor in Dance, and a Certificate in International Studies. My culminating capstone was my Honors Thesis: Attitudes and Experiences with Period Poverty at Arizona State University, where I created a survey and used analyziation tools to provide a report to Arizona State University about the effects of period poverty on our students. Clearly one for multi-tasking, I have a passion for diversifying my skills and showing up in multiple capacities.
 
