@@ -6,7 +6,7 @@ subtitle:
 
 ---
 
-## <i class="fas fa-code"></i> Data Science Projects
+## <i class="fas fa-laptop-code"></i> Data Science Projects
 
 ### Code-Throughs
 
