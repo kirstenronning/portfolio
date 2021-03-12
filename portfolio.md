@@ -6,7 +6,7 @@ subtitle:
 
 ---
 
-### Data Science Projects
+## Data Science Projects
 
 #### Code-Throughs
 
@@ -22,7 +22,7 @@ This code-through walks through how to cretae a basic Connection Map, while also
 
 This code-through explores how to create various lollipop plots using the **ggplot2** package in R.
 
-#### Dashboards
+### Dashboards
 
 **Denver**
 
@@ -32,7 +32,7 @@ This dashboard was created using the City of Tempe Open Data Portal. It explores
 
 ---
 
-### Capstone Project
+## Capstone Project
 
 [**Honors Thesis: Attitudes and Experiences with Period Poverty at Arizona State University**](Ronning_K_Spring_2020.pdf)
 
