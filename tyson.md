@@ -5,7 +5,7 @@ subtitle: My Golden Retriever
 ---
 
 
-<div class="gs-section-01" markdown=1">
+<div class="gs-section-01" markdown="1">
 
 ![Kirsten](assets/img/Tyson2.jpg) | ![Kirsten](assets/img/Tyson3.jpg) | ![Kirsten](assets/img/Tyson11.jpg)
 ------------ | ------------- | ------------- 
