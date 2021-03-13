@@ -34,6 +34,8 @@ One of my proudest achievements from Undergrad is receiving my 200-hour RYT Yoga
 
 I am currently a Graduate student at Arizona State University Online, and halfway through my Master of Science in Program Evaluation and Data Analytics. This program is truly the perfect combination of my two Bachelors of Science, as I am able to focus on fine-tuning my skills in data science and program analysis. The program explores primarily in R, where I have gained expertise in coding using various packages in order to create RMarkdown files and Dashboards. I am confident in my visualization and coding abilities in R and Tableau, and I have succinct statistical knowledge when it comes to designing and analyzing social programs.
 
+I helped the Sierra Club to facilitate a successful nation-wide effort to reach eligible voters in the United States for 2020 election cycle by communicating with other volunteers, answering questions, and ensuring they were set up to help encourage people to vote. I also hand-wrote 550 letters to eligible voters in Arizona and Georgia to encourage them to vote in favor of protecting our environment and for social justice.
+
 I currently reside with my Golden Retriever [Tyson](https://kirstenronning.github.io/portfolio/tyson/) in Scottsdale, Arizona, but we will be relocating this Summer 2021. My favorite pastimes include yoga, hiking, kayaking, and traveling as much as possible!
 
 ---
