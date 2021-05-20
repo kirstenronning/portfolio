@@ -8,6 +8,12 @@ subtitle:
 
 # <i class="fas fa-laptop-code"></i> Data Science Projects
 
+### Projects
+
+[**Neighborhood Change**](https://r-class.github.io/cpp-528-spr-2021-group-04/)
+
+This group project incorporated project management methods by utilizing Kanban Boards, GitHub, and RStudio to synthesize the semester's work into a fully-functioning GitHub Pages website. My groupmates and I created new variables, cleaned data, and joined tables in order to create an analysis on Neighborhood Change and an evaluation of Tax Credits. I specifically contributed the most to Chapter 3: Part II - Evaluation of Tax Credits.
+
 ### Code-Throughs
 
 [**Sentiment Analysis**](cpp-527-code-through-Ronning.html)
@@ -34,7 +40,9 @@ This dashboard can be used to detect neighborhood change at the census tract lev
 
 ---
 
-# <i class="fas fa-book"></i> Capstone Project
+# <i class="fas fa-book"></i> Capstone Projects
+
+**COMING SOON: Program Evaluation and Data Analytics MS Capstone Project**
 
 [**Honors Thesis: Attitudes and Experiences with Period Poverty at Arizona State University**](Ronning_K_Spring_2020.pdf)
 
