@@ -8,7 +8,7 @@ subtitle:
 
 # <i class="fas fa-laptop-code"></i> Data Science Projects
 
-### Projects
+### Reports
 
 [**Neighborhood Change**](https://r-class.github.io/cpp-528-spr-2021-group-04/)
 
