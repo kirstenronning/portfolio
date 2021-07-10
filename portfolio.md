@@ -42,7 +42,11 @@ This dashboard can be used to detect neighborhood change at the census tract lev
 
 # <i class="fas fa-book"></i> Capstone Projects
 
-**COMING SOON: Program Evaluation and Data Analytics MS Capstone Project**
+[**MS Capstone Project: Data Analytics in Public Policy and Evaluation**](Ronning MS Capstone.pdf)
+
+In the past decade, data analytics has become a booming industry. Technological advancements in modern-day computers have allowed for large data storage systems and complex predictive algorithms. While much of the focus is often directed toward major corporate efforts to effectively utilize data, there are numerous other industries that have relied on data analysis techniques for centuries and continue to do so. This paper walks through the history of data analysis by focusing on the development of data visualization, regression modeling, and classification modeling technologies. This information is then applied to the public sector specifically, taking a focus on how public policy can be determined and improved upon by data analytic approaches to evaluation and policy modeling. A closer look is taken at three specific organizations: the U.S. Department of Housing and Urban Development (HUD), the Illinois Housing Development Authority (IHDA), and the UChicago Urban Labs. By deciphering how these federal, state, and local institutions operate, we can envision the future of data analytics in public policy. 
+
+Keywords: data analytics, public policy, policy modeling, program evaluation
 
 [**Honors Thesis: Attitudes and Experiences with Period Poverty at Arizona State University**](Ronning_K_Spring_2020.pdf)
 
